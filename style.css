@@ -15,15 +15,6 @@
   --text-color: #ffffff;
   --main-color: #FF7A00;
 }
-
-/*:root {
-  --bg-color: #FFFFFF;
-  --bg-color2: #000000;
-  
-  --text-color: #FF7A00;
-  --main-color: #FBC21D;
-}*/
-
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -253,11 +244,6 @@ span {
 
 /* Services Section Code */
 
-.services h2 {
-  text-align: center;
-  margin-bottom: 5rem;
-}
-
 .services-container {
   display: flex;
   justify-content: center;
@@ -268,7 +254,6 @@ span {
 
 .services-container .services-box {
   flex: 1 1 30rem;
-  background: var(--snd-bg-color);
   padding: 6rem 2rem 6rem;
   border-radius: 2rem;
   text-align: center;
